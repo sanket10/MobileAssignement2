@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PrimeNumber</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="next">NEXT</string>
+    <string name="question">QUESTION</string>
+    <string name="Restart">RESTART</string>
+    <string name="hint">HINT</string>
+    <string name="cheat">CHEAT</string>
+    <string name="hint_layout">Hint_Layout</string>
+    <string name="cheat_layout">Cheat_Layout</string>
+    <string name="action_settings">Settings</string>
+</resources>
